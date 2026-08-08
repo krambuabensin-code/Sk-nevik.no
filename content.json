@@ -1,0 +1,93 @@
+{
+  "news": [
+    {
+      "id": "n1",
+      "date": "2026-08-08",
+      "title": "Velkomen til den nye bygdesida",
+      "body": "No har sida fått live rutetider for ferje, hurtigbåt og buss, fleire språk for turistar, og eiga omtale av Pippifestivalen og Skånevik Skyrace."
+    }
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "date": "2026-07-02",
+      "time": "",
+      "place": "Skånevik sentrum",
+      "title": "Skånevik Bluesfestival",
+      "desc": "30-årsjubileum – blues, rock og soul midt i bygda. Sjå skaanevik-blues.com for fullt program."
+    },
+    {
+      "id": "e2",
+      "date": "2026-07-09",
+      "time": "til 12. juli",
+      "place": "Skånevik Fjordhotel",
+      "title": "Pippifestivalen",
+      "desc": "Familiefestival med teaterstykket «Pippi Langstrømpe», dyrehage, hesteriding, hoppeslott og aktivitetar for heile familien i hotellhagen."
+    },
+    {
+      "id": "e3",
+      "date": "2026-08-15",
+      "time": "",
+      "place": "Skånevik sentrum – Håfjellet",
+      "title": "Skånevik Skyrace",
+      "desc": "Krevjande fjelløp på 24 km og 1600 høgdemeter, med start og mål i sentrum. Stemning, musikk og grilling i mål."
+    }
+  ],
+  "hours": [],
+  "contacts": [
+    {
+      "id": "c1",
+      "name": "Legevakt (nasjonalt nummer)",
+      "phone": "116 117"
+    },
+    {
+      "id": "c2",
+      "name": "Lensmann / politi",
+      "phone": "02800"
+    }
+  ],
+  "businesses": [
+    {
+      "id": "b1",
+      "name": "Krambua Bensin & Storkiosk",
+      "tag": "Daglegvare og bensin",
+      "desc": "Lokal kiosk og bensinstasjon med daglegvarer, mat og drikke.",
+      "contact": ""
+    },
+    {
+      "id": "b2",
+      "name": "Skånevik Fjordhotell",
+      "tag": "Overnatting og servering",
+      "desc": "Hotell midt i sentrum med restaurant, bar og fjordspa, rett ved badeøya Peparen.",
+      "contact": ""
+    },
+    {
+      "id": "b3",
+      "name": "Sjøkanten Trivsel",
+      "tag": "Bad og fritid",
+      "desc": "Utandørs badeanlegg med oppvarma 25-metersbasseng, barnebasseng og badstoge, drive på dugnad.",
+      "contact": ""
+    },
+    {
+      "id": "b4",
+      "name": "Boreal",
+      "tag": "Ferje",
+      "desc": "Køyrer bilferja M/F «Matre» på sambandet Skånevik–Matre–Utåker.",
+      "contact": "476 19 830"
+    },
+    {
+      "id": "b5",
+      "name": "Norled",
+      "tag": "Hurtigbåt",
+      "desc": "Køyrer hurtigbåtsambandet Sunnhordland–Austevoll–Bergen, med stopp i Skånevik.",
+      "contact": "916 81 239"
+    },
+    {
+      "id": "b6",
+      "name": "Tide Buss",
+      "tag": "Buss",
+      "desc": "Køyrer linje 641 mellom Skånevik og Etne.",
+      "contact": "53 65 18 23"
+    }
+  ]
+}
